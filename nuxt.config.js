@@ -30,11 +30,11 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['~assets/transition.css'],
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [],
+  plugins: ['~/plugins/Vuelidate'],
   /*
    ** Nuxt.js dev-modules
    */
